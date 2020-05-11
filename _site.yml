@@ -1,0 +1,34 @@
+name: "Ronald Espinoza"                                  # CHANGE HERE 
+output_dir: "."
+navbar:
+  title: "Ronald Espinoza" 
+  left:
+  - text: "PORTAFOLIO"
+    icon: fa-sitemap
+    href: orga.html
+  - text: "WORKSHOP"
+    icon: fa-calendar
+    href: calendar.html
+  - text: "Sessions"
+    #icon: fa-calendar
+    href: sessions.html  
+  - text: "Members"
+    #icon: fa-user 
+    href: members.html
+    menu:
+    - text: hola xd
+      href: https://#
+  - text: "About"
+    icon: fa-user
+    href: about.html
+  right:
+  - icon: fa-envelope-o
+    href: mailto:luisxmaron@gmail.com                    # CHANGE HERE 
+  - icon: fa-instagram
+    href: https://www.instagram.com/accounts/login/?next=%2Fronaldespinozaphotography%2F&source=follow
+  - icon: fa-facebook
+    href: https://www.facebook.com/RonaldEspinozaPhotography         # CHANGE HERE 
+output:
+  html_document:
+    theme: cosmo
+    highlight: textmate
