@@ -1,4 +1,24 @@
 <!--div><img src="cover_with_logo.png" width="100%" align="center"></div-->
+ <!--descactiva click derecho en imagenes-->
+<script> 
+    $(function(){
+     $('body').on('contextmenu', 'img', function(e){
+          //alert('xD');
+          /*$('<div style="color: red;  font-size: 20px">NO PE</div>')
+    .insertBefore('body')
+    .delay(3000)
+    .fadeOut(function() {
+      $(this).remove(); 
+    });*/
+         return false; 
+     });
+     $("img").mousedown(function(e){
+        e.preventDefault()
+     });
+     //$('img').on('dragstart', function(event) { event.preventDefault(); });
+ });
+</script>
+
 <link rel="icon" href="https://luisxsuper.github.io/Ronald.Web.Beta/icono_photography.ico" sizes="16x16 24x24 32x32 48x48 64x64 128x128">
 
 <meta property="og:url" content="https://luisxsuper.github.io/Ronald.Web.Beta/" />

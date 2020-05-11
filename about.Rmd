@@ -1,0 +1,47 @@
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-100463316-3', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+```{js, echo = FALSE}
+document.title = "Ronald Espinoza"
+```
+
+<br>
+
+Soy un __artista__ y un __fotografo__.    
+I'm the founder and former organizer of [the Grenoble R user group](https://r-in-grenoble.github.io/).    
+You can find me on [Twitter](https://twitter.com/privefl) and [GitHub](https://github.com/privefl) as \@privefl and on [Stack Overflow](https://stackoverflow.com/users/6103040/f-priv%c3%a9) as F. Privé.
+
+### Current work
+
+I am a postdoc in Aarhus, Denmark.
+
+I'm interested in using statistical learning to advance precision medicine.
+Specifically, I'm developing tools to analyse very large datasets and methods to build predictive models based on large genetic data.
+
+[Read more about my work..](com.html)
+
+### Hometown -- Education
+
+I'm from [Troyes](https://en.wikipedia.org/wiki/Troyes), France. 
+I naturally like Champagne.    
+
+I was in prep school in [Dijon](https://en.wikipedia.org/wiki/Dijon).    
+Then, in 2016, I graduated from [ENSIMAG](https://goo.gl/2aDwm1), an engineer school in __Informatics__ and __Applied Mathematics__ in [Grenoble](https://en.wikipedia.org/wiki/Grenoble). 
+
+In 2019, I got a **PhD in predictive human genetics** in [BCM team](http://www-timc.imag.fr/rubrique44.html), Laboratoire TIMC-IMAG, Grenoble, France.
+My supervisors were [Michael Blum](https://twitter.com/mblum_g) (TIMC-IMAG) and [Hugues Aschard](https://research.pasteur.fr/fr/member/hugues-aschard/) (Institut Pasteur).
+My thesis was funded by the [LabEx PERSYVAL-Lab](https://persyval-lab.org/en).
+
+### video :v 
+
+<iframe width="720" height="488" src="https://www.youtube.com/embed/Ssoel8XDeKU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
